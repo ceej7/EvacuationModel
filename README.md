@@ -1,2 +1,2 @@
 # EvacuationModel
-A evacuation model in subway scene
+A evacuation model in a subway scene
