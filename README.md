@@ -1,5 +1,5 @@
 # EvacuationModel
-A evacuation model in a subway scene
+A evacuation model in the subway scene
 ## Env
 Unity, VRTK
 ## Evacuation Model
